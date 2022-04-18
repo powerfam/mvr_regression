@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # In[ ]:
-
+# 작성연월:: 2022.04
+# 제작자: powerfam@naver.com
 
 import pandas as pd
 import statsmodels.api as sm
